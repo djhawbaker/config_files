@@ -129,3 +129,6 @@ $(parse_git_branch)->'
 
 # Alias for virtual env
 alias start_venv='. venv/bin/activate'
+
+# Alias for Python
+alias python='python3'
