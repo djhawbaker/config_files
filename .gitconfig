@@ -1,0 +1,7 @@
+[user]
+	name = David Hawbaker
+	email = djhawbaker@gmail.com
+[core]
+	editor = vim
+[commit]
+	template = /home/david/.gitmessage.txt
